@@ -1,0 +1,45 @@
+{
+    "name": "Workout list",
+    "workout list": [
+        {
+            "time": 7,
+            "day": 1,
+            "status": false
+        },
+        {
+            "time": 7,
+            "day": 3,
+            "status": true
+        },
+        {
+            "time": 13,
+            "day": 4,
+            "status": true
+        },
+        {
+            "time": 9,
+            "day": 5,
+            "status": false
+        },
+        {
+            "time": 10,
+            "day": 5,
+            "status": false
+        },
+        {
+            "time": 14,
+            "day": 5,
+            "status": false
+        },
+        {
+            "time": 17,
+            "day": 5,
+            "status": false
+        },
+        {
+            "time": 8,
+            "day": 6,
+            "status": false
+        }
+    ]
+}

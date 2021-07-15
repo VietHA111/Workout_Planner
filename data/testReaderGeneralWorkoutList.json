@@ -1,0 +1,15 @@
+{
+  "name": "Regular workout",
+  "workout list": [
+    {
+      "time": 1,
+      "day": 1,
+      "status": true
+    },
+    {
+      "time": 2,
+      "day": 6,
+      "status": false
+    }
+  ]
+}

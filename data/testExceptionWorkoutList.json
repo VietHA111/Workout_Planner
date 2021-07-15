@@ -1,0 +1,10 @@
+{
+  "name": "Regular workout",
+  "workout list": [
+    {
+      "time": 1,
+      "day": -1,
+      "status": true
+    }
+  ]
+}
